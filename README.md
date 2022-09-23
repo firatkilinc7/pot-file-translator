@@ -6,10 +6,11 @@
    * Get the source pot-po file.
 
 ### Python Libraries
-###### Open Cmd and type commands:
-      pip install googletrans
+   * Open Cmd and type commands:
       
-      pip install art
+         pip install googletrans
+      
+         pip install art
 
 ## Run the Program
    * Add the source pot-po file to the file path of the script.
